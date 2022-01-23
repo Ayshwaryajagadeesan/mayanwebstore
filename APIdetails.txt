@@ -1,0 +1,19 @@
+API URLS. Please see the attached GIF and implement these URLS when the code is running.
+
+
+
+1.To implement Rest API to GET products
+http://localhost:51322/GetProducts
+
+2.To implement Get Gategories with Rest API
+http://localhost:51322/order/getProductCategories
+
+3.To implement Rest API to get products from category ID
+http://localhost:51322/order/getProductsforID/
+
+4.To save data with Rest API
+http://localhost:51322/order/savedetails
+
+5.To delete with Rest API:
+
+It is inherently implemented in example app.
