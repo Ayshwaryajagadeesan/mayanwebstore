@@ -5,3 +5,8 @@
 * [x] User can delete Book from the cart with REST API
 * [x] User can see Rest API implemented in the app attached under the folder MayanWebStore App
 
+
+### App Walkthough GIF
+
+<img src="https://github.com/Ayshwaryajagadeesan/mayanwebstore/blob/main/MayanWebStoreApp.gif" width=250><br>
+
